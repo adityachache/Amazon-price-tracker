@@ -5,10 +5,10 @@
 ![image](https://user-images.githubusercontent.com/84438200/153756116-d167c378-3d6b-4cde-ac5d-31c8f8229004.png)
 
 
-To use this you need to mention the link of the url of the thing you want, the price you want to buy it, your email and password to send email alerts
+### To use this you need to mention the link of the url of the thing you want, the price you want to buy it, your email and password to send email alerts
 
 
-1.  In `main.py` you can set the price
+1. In `main.py` you can set the price
 
 ![image](https://user-images.githubusercontent.com/84438200/153756202-2c0a3c53-f065-42a1-9e2e-14c5e2c551fb.png)
 
@@ -21,6 +21,9 @@ To use this you need to mention the link of the url of the thing you want, the p
 3. In `mainsender.py` make the following changes
 
 ![image](https://user-images.githubusercontent.com/84438200/153756301-4e5531af-23ff-46ac-9a97-134ce7afebf4.png)
+
+
+
 
 
 **After making these changes run the `main.py` file**
