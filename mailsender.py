@@ -1,7 +1,10 @@
 import smtplib
 
-SENDER_EMAIL = "fenixfirea380@gmail.com"
-PASSWORD = "windranger"
+# YOUR EMAIL ADDRESS
+SENDER_EMAIL = "user@email.com"
+# PASSWORD
+PASSWORD = "your password"
+# SMTP ADDRESS (CHANGE THIS IF YOUR EMAIL HOST IS NOT GMAIL)
 SMTP_ADDRESS = "smtp.gmail.com"
 
 
